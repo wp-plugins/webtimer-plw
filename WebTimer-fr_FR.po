@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebTimer 2.0\n"
+"POT-Creation-Date: 2015-06-26 12:43+0100\n"
+"PO-Revision-Date: 2015-06-26 12:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pour le Web <contact@pour-le-web.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins"
+"\\WebTimer\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:34
+msgid "Settings"
+msgstr "Réglage"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:58
+msgid "Welcome in WebTimer 2.0"
+msgstr "Bienvenue dans WebTimer 2.0"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:61
+msgid "WebTimer offers two features for the layout of your web page."
+msgstr ""
+"WebTimer vous propose deux fonctionnalités pour la mise en page de vos page "
+"web."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:62
+msgid ""
+"The first feature allows you to display content after a predefined time."
+msgstr ""
+"La premiere fonctionnalité vous permet d'afficher un contenu au bout d'un "
+"temps prédéfini."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:63
+msgid ""
+"The second feature allows you to hide a content after a predefined time."
+msgstr ""
+"La deuxième fonctionnalité vous permet de cacher un contenu après un temps "
+"prédéfini."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:64
+msgid "Two shortcode allow to execute these features:"
+msgstr "Deux shortcode permettent d'executer ces fonctionnalités."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:67
+msgid ""
+"[ WebTimer_Delay  time=\"1m20s\"] Your content [/WebTimer_Delay ] This "
+"shortcode allows you to view your content after a predefined time."
+msgstr ""
+"[ WebTimer_Delay  time=\"1m20s\"] Votre contenu [/WebTimer_Delay ] Ce "
+"chortcode vous permet d'afficher votre contenu au bout d'un temps prédéfini."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:68
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:75
+msgid ""
+"The variable \"time\" take time parameter : with \"m\" for minute and \" s\" "
+"for second."
+msgstr ""
+"La variable \"time\" prend en paramètre un temps : avec \"m\" pour minute et "
+"\"s\" pour seconde."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:76
+msgid "example of use:"
+msgstr "Exemple d'utilisation :"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:70
+msgid "This text will be displayed after 1 minutes et 20 seconds"
+msgstr "Ce texte sera affiché au bout de 1 minutes et 20 secondes."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:71
+msgid ""
+"When the web page containing this shortcode has finished loading, this "
+"sentence will appear after 1 minute and 20secondes."
+msgstr ""
+"Lorsque la page Web contenant ce shortcode a terminé son rafraichissement , "
+"cette phrase apparaît au bout d'une minute et vingt secondes ."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:74
+msgid ""
+"[WebTimer_Hide time=\"5m30s\"] Your content [/WebTimer_Hide ] This shortcode "
+"allows you to hide your content after a predefined time."
+msgstr ""
+"[ WebTimer_Delay  time=\"5m30s\"] Votre contenu [/WebTimer_Delay ] Ce "
+"chortcode vous permet de cacher votre contenu au bout d'un temps prédéfini."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:77
+msgid "This text will be hidden after 5 minutes et 30 seconds"
+msgstr "Ce texte sera caché au bout de 5 minutes et 30 secondes"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:78
+msgid ""
+"When the web page containing this shortcode has finished loading, this "
+"sentence will be hidden after 5 minutes and 30 seconds."
+msgstr ""
+"Lorsque la page Web contenant ce shortcode a terminé son rafraichissement , "
+"cette phrase apparaît au bout de cinq minutes et vingt secondes ."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\WebTimer/WebTimer.php:84
+msgid ""
+"If you enjoyed WebTimer plugin and want to make a donation , it is possible "
+"to"
+msgstr ""
+"Si le plugin WebTimer vous a plu et que vous souhaitez nous faire un don, "
+"c’est possible sur"
+
+#~ msgid "two shortcode allow to execute these features:"
+#~ msgstr "Deux shortcode permettent d'executer ces fonctionnalités."
+
+#~ msgid ""
+#~ "WebTimer allows you to delay the display of content for your Website."
+#~ msgstr ""
+#~ "WebTimer vous permet de retarder l'affichage d'un contenu pour votre site "
+#~ "web ."
+
+#~ msgid ""
+#~ "This code [ WebTimer delay = \"1m20s\"] Your content [ / WebTimer ] "
+#~ "allows the delay display of your content."
+#~ msgstr ""
+#~ "Ce code [WebTimer delay=\"1m20s\"]Votre contenu[/WebTimer] permet le "
+#~ "retardement d'affichage de votre contenu."
+
+#~ msgid ""
+#~ "The variable delay take time parameter : with \"m\" for minute and \" s\" "
+#~ "for second."
+#~ msgstr ""
+#~ "La variable delay prend en paramètre un temps : avec \"m\" pour minute et "
+#~ "\"s\" pour seconde."
+
+#~ msgid "This text is hidden for 1 minutes et 20 seconds"
+#~ msgstr "Ce texte est caché pendant 1 minute et 20 secondes."
+
+#~ msgid ""
+#~ "When the web page containing this shortcode has finished loading, this "
+#~ "sentence will appear after 1 minute and 20secondes ."
+#~ msgstr ""
+#~ "Dès la fin du chargement de la page, le texte contenu dans le shortcode "
+#~ "s'affichera au bout de 1 minute et 20 secondes."
+
+#~ msgid ""
+#~ "When the web page containing this shortcode has finished loading, this "
+#~ "sentence will not be displayed for 5 seconds."
+#~ msgstr ""
+#~ "Dès la fin du chargement de la page, le texte contenu dans le shortcode "
+#~ "s'affichera au bout de 1 minute et 20secondes."
+
+#~ msgid "this text is hidden for 1 minutes et 20 seconds"
+#~ msgstr "Ce texte est caché pendant 1 minute et 20 secondes."
+
+#~ msgid ""
+#~ "This code [ WebTimer delay = \\ \" 1m20s \\ \"] Your content [ / "
+#~ "WebTimer ] allows the delay display of your content."
+#~ msgstr ""
+#~ "Ce code [WebTimer delay=\"1m20s\"]Votre contenu[/WebTimer] permet le "
+#~ "retardement d'affichage de votre contenu."
+
+#~ msgid "Delay is an integer parameter that takes a time in seconds."
+#~ msgstr ""
+#~ "La variable delay prendre en parametre un temps : avec \"m\" pour minute "
+#~ "et \"s\" pour seconde."
+
+#~ msgid "This display delay is done through a shortcode:"
+#~ msgstr ""
+#~ "Ce code [WebTimer delay=\"1m20s\"]Votre contenu[/WebTimer] permet le "
+#~ "retardement d'affichage de votre contenu."
+
+#~ msgid "this text is hidden for 5 seconds"
+#~ msgstr "Ce texte est caché pendant 5 secondes."
+
+#~ msgid "A content is not displayed for some time."
+#~ msgstr "Ce contenue ne s'affichera pas pendant un temps d"
+
+#~ msgid "Hello world."
+#~ msgstr "ce texte est un exemple de traductuction"
