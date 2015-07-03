@@ -7,37 +7,35 @@ Tested up to: 4.2
 Stable tag: 4.2
 License: GPLv2 or later
 
-WebTimer vous permet de retarder l'affichage d'un contenu d'une page web pedant un temps prédéfini.
-Il vous permet également de masquer un contenu après un temps prédéfini .
+WebTimer vous permet de retarder l'affichage d'un contenu d'une page web pendant un temps pr&eacute;d&eacute;fini
+WebTimer allows you to delay the display of content for your Website
 
-WebTimer allows you to delay the display of content for your Website.
-It also allows you to hide a content after a predefined time.
 
 == Description ==
 
 Francais:
-WebTimer vous propose deux fonctionnalités pour la mise en page de vos page web.
-La premiere fonctionnalité vous permet d'afficher un contenu au bout d'un temps prédéfini.
-La deuxième fonctionnalité vous permet de cacher un contenu après un temps prédéfini.
+WebTimer vous propose deux fonctionnalit&eacute;s pour la mise en page de vos page web.
+La premiere fonctionnalit&eacute; vous permet d'afficher un contenu au bout d'un temps pr&eacute;d&eacute;fini.
+La deuxième fonctionnalit&eacute; vous permet de cacher un contenu après un temps pr&eacute;d&eacute;fini.
 
-Deux shortcode permettent d'executer ces fonctionnalités.[WebTimer_Delay][/WebTimer_Delay] et [WebTimer_Hide][/WebTimer_Hide]
+Deux shortcode permettent d'executer ces fonctionnalit&eacute;s.[WebTimer_Delay][/WebTimer_Delay] et [WebTimer_Hide][/WebTimer_Hide]
 
 ->  [WebTimer_Delay][/WebTimer_Delay]
-	[ WebTimer_Delay time="1m20s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet d'afficher votre contenu au bout d'un temps prédéfini.
+	[ WebTimer_Delay time="1m20s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet d'afficher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
 	La variable "time" prend en paramètre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Exemple d'utilisation :
-	[WebTimer_Delay time="1m20s"] Ce texte sera affiché au bout de 1 minutes et 20 secondes. [/WebTimer_Delay]
-	Lorsque la page Web contenant ce shortcode a terminé son rafraichissement , cette phrase apparaît au bout d'une minute et vingt secondes .
+	[WebTimer_Delay time="1m20s"] Ce texte sera affich&eacute; au bout de 1 minutes et 20 secondes. [/WebTimer_Delay]
+	Lorsque la page Web contenant ce shortcode a termin&eacute; son rafraichissement , cette phrase apparaît au bout d'une minute et vingt secondes .
 
 
 ->  [WebTimer_Hide][/WebTimer_Hide]
-	[ WebTimer_Delay time="5m30s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet de cacher votre contenu au bout d'un temps prédéfini.
+	[ WebTimer_Delay time="5m30s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet de cacher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
 	La variable "time" prend en paramètre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Exemple d'utilisation :
-	[WebTimer_Hide time="5m30s"] Ce texte sera caché au bout de 5 minutes et 30 secondes [/WebTimer_Hide]
-	Lorsque la page Web contenant ce shortcode a terminé son rafraichissement , cette phrase apparaît au bout de cinq minutes et vingt secondes .
+	[WebTimer_Hide time="5m30s"] Ce texte sera cach&eacute; au bout de 5 minutes et 30 secondes [/WebTimer_Hide]
+	Lorsque la page Web contenant ce shortcode a termin&eacute; son rafraichissement , cette phrase apparaît au bout de cinq minutes et vingt secondes .
 
 
 
