@@ -1,7 +1,9 @@
 ﻿<?php
 /*
 Plugin Name: webtimer-plw
-Description: WebTimer allows you to delay the display of content for your Website
+Description: WebTimer vous permet de retarder l'affichage d'un contenu d'une page web pendant un temps pr&eacute;d&eacute;fini.
+WebTimer allows you to delay the display of content for your Website.
+
 Version: 2.0
 Text Domain: WebTimer
 Author: Pour le web
