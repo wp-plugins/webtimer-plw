@@ -15,13 +15,13 @@ WebTimer allows you to delay the display of content for your Website.
 Francais:
 WebTimer vous propose deux fonctionnalit&eacute;s pour la mise en page de vos page web.
 La premiere fonctionnalit&eacute; vous permet d'afficher un contenu au bout d'un temps pr&eacute;d&eacute;fini.
-La deuxième fonctionnalit&eacute; vous permet de cacher un contenu après un temps pr&eacute;d&eacute;fini.
+La deuxi&egrave;me fonctionnalit&eacute; vous permet de cacher un contenu apr&egrave;s un temps pr&eacute;d&eacute;fini.
 
 Deux shortcode permettent d'executer ces fonctionnalit&eacute;s.[WebTimer_Delay][/WebTimer_Delay] et [WebTimer_Hide][/WebTimer_Hide]
 
 ->  [WebTimer_Delay][/WebTimer_Delay]
 	[ WebTimer_Delay time="1m20s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet d'afficher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
-	La variable "time" prend en paramètre un temps : avec "m" pour minute et "s" pour seconde.
+	La variable "time" prend en param&egrave;tre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Exemple d'utilisation :
 	[WebTimer_Delay time="1m20s"] Ce texte sera affich&eacute; au bout de 1 minutes et 20 secondes. [/WebTimer_Delay]
@@ -30,7 +30,7 @@ Deux shortcode permettent d'executer ces fonctionnalit&eacute;s.[WebTimer_Delay]
 
 ->  [WebTimer_Hide][/WebTimer_Hide]
 	[ WebTimer_Delay time="5m30s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet de cacher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
-	La variable "time" prend en paramètre un temps : avec "m" pour minute et "s" pour seconde.
+	La variable "time" prend en param&egrave;tre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Exemple d'utilisation :
 	[WebTimer_Hide time="5m30s"] Ce texte sera cach&eacute; au bout de 5 minutes et 30 secondes [/WebTimer_Hide]
