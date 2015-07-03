@@ -20,9 +20,7 @@ La deuxi&egrave;me fonctionnalit&eacute; vous permet de cacher un contenu apr&eg
 
 Deux shortcode permettent d'executer ces fonctionnalit&eacute;s.[WebTimer_Delay][/WebTimer_Delay] et [WebTimer_Hide][/WebTimer_Hide]
 
-->  [WebTimer_Delay][/WebTimer_Delay]
-
-	[ WebTimer_Delay time="1m20s"] Votre contenu [/WebTimer_Delay ] Ce chortcode vous permet d'afficher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
+->  [WebTimer_Delay time = "1m20s"] Votre contenu [/WebTimer_Delay]Ce chortcode vous permet d'afficher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
 	La variable "time" prend en param&egrave;tre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Example of use:
@@ -30,9 +28,7 @@ Deux shortcode permettent d'executer ces fonctionnalit&eacute;s.[WebTimer_Delay]
 	Lorsque la page Web contenant ce shortcode a termin&eacute; son rafraichissement , cette phrase apparaît au bout d'une minute et vingt secondes .
 
 
-->  [WebTimer_Hide][/WebTimer_Hide]
-
-	[ WebTimer_Delay time="5m30s"] Votre contenu [/WebTimer_Delay ] Ce shortcode vous permet de cacher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
+->  [WebTimer_Hide time = "5m30s"] Votre contenu [/WebTimer_Hide] Ce shortcode vous permet de cacher votre contenu au bout d'un temps pr&eacute;d&eacute;fini.
 	La variable "time" prend en param&egrave;tre un temps : avec "m" pour minute et "s" pour seconde.
 
 	Example of use:
