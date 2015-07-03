@@ -7,8 +7,7 @@ Tested up to: 4.2
 Stable tag: 4.2
 License: GPLv2 or later
 
-WebTimer vous permet de retarder l'affichage d'un contenu d'une page web pendant un temps pr&eacute;d&eacute;fini
-WebTimer allows you to delay the display of content for your Website
+WebTimer allows you to delay the display of content for your Website.
 
 
 == Description ==
