@@ -1,0 +1,99 @@
+# Copyright (C) 2015 webtimer-plw
+# This file is distributed under the same license as the webtimer-plw package.
+msgid ""
+msgstr ""
+"Project-Id-Version: webtimer-plw 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/webtimer-plw\n"
+"POT-Creation-Date: 2015-07-03 13:47:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: webtimer-plw.php:35
+msgid "Settings"
+msgstr ""
+
+#: webtimer-plw.php:59
+msgid "Welcome in WebTimer 2.0"
+msgstr ""
+
+#: webtimer-plw.php:62
+msgid "WebTimer offers two features for the layout of your web page."
+msgstr ""
+
+#: webtimer-plw.php:63
+msgid ""
+"The first feature allows you to display content after a predefined time."
+msgstr ""
+
+#: webtimer-plw.php:64
+msgid ""
+"The second feature allows you to hide a content after a predefined time."
+msgstr ""
+
+#: webtimer-plw.php:65
+msgid "Two shortcode allow to execute these features:"
+msgstr ""
+
+#: webtimer-plw.php:68
+msgid ""
+"[ WebTimer_Delay  time=\"1m20s\"] Your content [/WebTimer_Delay ] This "
+"shortcode allows you to view your content after a predefined time."
+msgstr ""
+
+#: webtimer-plw.php:69 webtimer-plw.php:76
+msgid ""
+"The variable \"time\" take time parameter : with \"m\" for minute and \" s\" "
+"for second."
+msgstr ""
+
+#: webtimer-plw.php:70 webtimer-plw.php:77
+msgid "example of use:"
+msgstr ""
+
+#: webtimer-plw.php:71
+msgid "This text will be displayed after 1 minutes et 20 seconds"
+msgstr ""
+
+#: webtimer-plw.php:72
+msgid ""
+"When the web page containing this shortcode has finished loading, this "
+"sentence will appear after 1 minute and 20secondes."
+msgstr ""
+
+#: webtimer-plw.php:75
+msgid ""
+"[WebTimer_Hide time=\"5m30s\"] Your content [/WebTimer_Hide ] This shortcode "
+"allows you to hide your content after a predefined time."
+msgstr ""
+
+#: webtimer-plw.php:78
+msgid "This text will be hidden after 5 minutes et 30 seconds"
+msgstr ""
+
+#: webtimer-plw.php:79
+msgid ""
+"When the web page containing this shortcode has finished loading, this "
+"sentence will be hidden after 5 minutes and 30 seconds."
+msgstr ""
+
+#: webtimer-plw.php:85
+msgid ""
+"If you enjoyed WebTimer plugin and want to make a donation , it is possible "
+"to"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "webtimer-plw"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pour le web"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pour-le-web.com/"
+msgstr ""
